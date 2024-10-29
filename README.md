@@ -24,7 +24,7 @@ I'm an enthusiastic engineering student working on enhancing my skills in MATLAB
 
 ### 🛠 Skills
 
-- **Programming**: Python, C/C++
+- **Programming**: Python, C
 - **Tools**: MATLAB, Simulink, PCB Design
 - **Areas of Interest**: Machine Learning, Circuit Analysis, Signal Processing
 
@@ -45,7 +45,7 @@ I'm deepening my knowledge in machine learning and MATLAB, working on projects t
 
 ### 📊 GitHub Stats
 
-![Md. Morsalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdmorsalinhstu&show_icons=true&theme=default)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mdmorsalinhstu&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdmorsalinhstu&layout=compact)
 
 ---
