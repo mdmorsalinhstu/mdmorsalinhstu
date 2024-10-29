@@ -16,10 +16,10 @@ I'm an enthusiastic engineering student working on enhancing my skills in MATLAB
 
 - **Dean’s Award Recipient** 🌟 | First-year GPA: **3.92** (Semester 1), **3.85** (Semester 2)
 - **Certificates**:
-  - [PCB Design for Beginners](#) 🛠
+  - [MATLAB Onramp](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=b3ceb13e-1b33-41a6-a264-235710de87c7&) 🔧
+  - [PCB Design for Beginners](https://credsverse.com/credentials/6dcd5688-548f-47a7-87f9-ccf8c0ec93f1) 🛠
   - [Introduction to Machine Learning - Great Learning Academy](https://www.mygreatlearning.com/certificate/QYTSPPVZ) 🤖
-  - [MATLAB Onramp](#) 🔧
-
+  
 ---
 
 ### 🛠 Skills
